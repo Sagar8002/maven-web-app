@@ -4,11 +4,11 @@
 
 <a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : +91-9985396677  </h2> 
+  <h1> Call Us : +91-9518599085  </h1> 
     
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h1> Learn here, lead Anywhere !! </h1>
 
-  <h4> hey sagar i have editted file </h4>
+  <h1> hey sagar i have editted file </h1>
 
 </body>
 </html>
